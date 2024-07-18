@@ -4605,10 +4605,10 @@ Audi A3,Sedans,Black,10,85,Manual,"Alloy wheels,Sport suspension,Voice Control",
 Audi A3,Sedans,White,27,85,Manual,"Alloy wheels,Sport suspension",24800
 Audi A3,Sedans,Blue,26,85,Manual,"Alloy wheels,Sport suspension",24800
 Audi A3,Sedans,Silver,10,85,Manual,Alloy wheels,24800
-Audi A3,Station wagon,Grey,10,85,Manual,Alloy wheels,24790
-Audi A3,Sedans,Blue,1,85,Manual,"Alloy wheels,Catalytic Converter,Sport package,Sport seats,Sport suspension,Voice Control",24700
-Audi A3,Sedans,Silver,50,85,Manual,Alloy wheels,24800
-Audi A3,Sedans,Grey,10,85,Manual,"Alloy wheels,Sport suspension,Voice Control",24688
+Audi A3,Station wagon,,10,85,Manual,Alloy wheels,24790
+Audi A3,Sedans,,1,85,Manual,"Alloy wheels,Catalytic Converter,Sport package,Sport seats,Sport suspension,Voice Control",24700
+Audi A3,Sedans,,50,85,Manual,Alloy wheels,24800
+Audi A3,Sedans,,10,85,Manual,"Alloy wheels,Sport suspension,Voice Control",24688
 Audi A3,Sedans,Grey,10,85,Manual,"Alloy wheels,Sport suspension,Voice Control",24688
 Audi A3,Sedans,Grey,10,85,Manual,Sport suspension,24688
 Audi A3,Sedans,Grey,10,85,Manual,"Alloy wheels,Sport suspension,Voice Control",24688
@@ -4635,9 +4635,9 @@ Audi A3,Sedans,Black,100,85,Manual,Alloy wheels,23900
 Audi A3,Sedans,White,100,85,Manual,Alloy wheels,23900
 Audi A3,Sedans,Black,100,85,Manual,Alloy wheels,23900
 Audi A3,Sedans,White,0,85,Manual,Alloy wheels,23900
-Audi A3,Sedans,White,1500,85,Manual,"Alloy wheels,Catalytic Converter",23900
-Audi A3,Sedans,Black,2900,85,Manual,"Alloy wheels,Catalytic Converter",23900
-Audi A3,Sedans,Grey,10,85,Manual,Alloy wheels,23900
+Audi A3,Sedans,White,,85,Manual,"Alloy wheels,Catalytic Converter",23900
+Audi A3,Sedans,Black,,85,Manual,"Alloy wheels,Catalytic Converter",23900
+Audi A3,Sedans,Grey,,85,Manual,Alloy wheels,23900
 Audi A3,Sedans,White,0,85,Manual,Alloy wheels,23900
 Audi A3,Sedans,Black,14,85,Manual,"Alloy wheels,Catalytic Converter,Ski bag,Voice Control",23900
 Audi A3,Sedans,Grey,0,85,Manual,Alloy wheels,23900
